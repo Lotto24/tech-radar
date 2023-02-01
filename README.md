@@ -8,7 +8,7 @@ This repository contains the code to generate the visualization:
 [`radar.js`](/docs/radar.js) (based on [d3.js v4](https://d3js.org)).
 Feel free to use and adapt it for your own purposes.
 
-Latest radar: https://srv-git-01-hh1.alinghi.tipp24.net/pages/eSailors/tech-radar/
+Latest radar: https://lotto24.github.io/tech-radar/
 
 ## Usage
 
