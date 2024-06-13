@@ -1,6 +1,6 @@
 {
   "name": "zeal-tech-radar",
-  "version": "2022.5.0",
+  "version": "2024.0.0",
   "description": "Visualizing our technology choices",
   "license": "MIT",
   "directories": {
@@ -9,7 +9,7 @@
   "devDependencies": {
     "browser-sync": "^2.27.7",
     "eslint": "^5.7.0",
-    "htmllint": "^0.7.2",
+    "htmllint": "^0.7.3",
     "socket.io": "^4.4.1"
   },
   "scripts": {

@@ -885,7 +885,7 @@ has-flag@^3.0.0:
   resolved "https://registry.npmjs.org/has-flag/-/has-flag-3.0.0.tgz"
   integrity sha1-tdRU3CGZriJWmfNGfloH87lVuv0= sha512-sKJf1+ceQBr4SMkvQnBDNDtf4TXpVhVGateu0t918bl30FnbE2m4vNLX+VWe/dpjlb+HugGYzW7uQXH98HPEYw==
 
-htmllint@^0.7.2:
+htmllint@^0.7.3:
   version "0.7.3"
   resolved "https://registry.npmjs.org/htmllint/-/htmllint-0.7.3.tgz"
   integrity sha512-h8wfCu0CC0FVo18Jkygv7xqj0fa23Xlv4QsR2n34LDr8eqpf4glfbNg1HTbiCqpT3ONioMOfk8EkFUbZgrO1KA==
